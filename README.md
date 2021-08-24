@@ -1,2 +1,2 @@
 # Web-crawlers
-Automated Bot crawling
+Automated Bot crawler for news articles from news sites
